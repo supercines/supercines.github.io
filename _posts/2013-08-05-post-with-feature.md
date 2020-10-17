@@ -13,6 +13,8 @@ Para su seguridad Supercines S. A. y Corporación El Rosado S.A podría limitar 
 
 
 
+.
+
 
 ## Cupidatat 90's lo-fi authentic try-hard
 
@@ -26,7 +28,7 @@ Para su seguridad Supercines S. A. y Corporación El Rosado S.A podría limitar 
 
 
 
-El sistema acepta como medios de pago: Tarjetas de crédito Visa y MasterCard.
+
 
 
 
