@@ -13,6 +13,44 @@ MIni, Hyper market, Metropolis, Riocentro Shopping, Radio disney, y muchos mas
 
 
 
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+
+.
+
+
+
+.
+
+
+
+
+.
+
+
+
+.
+
+
+
+.
 
 
 .
