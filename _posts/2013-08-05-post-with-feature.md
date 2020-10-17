@@ -18,6 +18,19 @@ La entrega de los boletos se hará en el mismo complejo de cine, el titular de l
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 El sistema acepta como medios de pago: Tarjetas de crédito Visa y MasterCard.
 
 
