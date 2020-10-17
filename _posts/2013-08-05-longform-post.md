@@ -15,6 +15,19 @@ Con el pasar de los años, Salón El Rosado, como lo llamó Czarninski al negoci
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## Cupidatat 90's lo-fi authentic try-hard
+
+
 
 
