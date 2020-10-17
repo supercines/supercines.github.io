@@ -21,12 +21,25 @@ MANTA
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .
 
 
 ## Cupidatat 90's lo-fi authentic try-hard
-
-
 
 
 
