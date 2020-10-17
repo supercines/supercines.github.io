@@ -6,7 +6,7 @@ canonical: http://jekyll.gtat.me
 # Owner/author information
 owner:
   name:           SuperCines
-  avatar:         avatar.png
+  avatar:         https://www.supercines.com/assets/img/home/supercinesLogo.png
   bio:            "Aesthete & Athlete"
   email:          servisioalcliente@elrosado.com
   twitter:        supercines1
@@ -28,7 +28,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Acerca de nosotros
     url: /about
   - title: 
     url: 
