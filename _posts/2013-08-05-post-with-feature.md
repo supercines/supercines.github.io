@@ -5,7 +5,7 @@ description: "Este sistema es exclusivamente para reserva de boletos para funcio
 category: articles
 tags: [intro, beginner, jekyll, tutorial]
 image:
-  feature: "https://www.supercines.com/assets/img/home/supercinesLogo.png"
+  feature: "gatsby.jpg"
 ---
 
 Los boletos una vez reservados, estarán disponibles inmediatamente. El cliente puede acercarse al cine elegido en cualquier momento a retirar sus entradas. Cuando se haga efectivo el retiro de las mismas, inmediatamente se emitirá la factura electrónica hacia el cliente, quien expresamente da su consentimiento y aceptación hacia esta forma de emisión.
