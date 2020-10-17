@@ -1,6 +1,6 @@
 ---
 layout: home
 permalink: /articles/index.html
-title: "Articles"
+title: "SumerCines"
 tags: [blog, graphic design]
 ---
